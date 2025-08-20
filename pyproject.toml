@@ -11,7 +11,7 @@ dependencies = [
 ]
 
 authors = [
-  { name = "Shekhar Narayanan", email = "s.narayanan@tilburguniversity.edu" }
+  { name = "Shekhar Narayanan", email = "shekharnarayanan833@gmail.com" }
 ]
 
 [project.urls]
