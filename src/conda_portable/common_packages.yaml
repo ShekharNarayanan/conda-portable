@@ -1,0 +1,34 @@
+Windows:
+  conda:
+    - vc
+    - vc14_runtime
+    - vcomp14
+    - vs2015_runtime
+    - ucrt
+    - libwinpthread
+    - _openmp_mutex
+    - libgcc
+    - libgomp
+    - win_inet_pton
+  pip:
+    - pywin32
+    - pywinpty
+    - pywin32-ctypes
+    - pypiwin32
+    - win-inet-pton
+
+Linux:
+  conda:
+    - libgcc-ng
+    - libstdcxx-ng
+    - libgomp
+    - _openmp_mutex
+  pip: []
+
+MacOS:
+  conda:
+    - llvm-openmp
+    - libcxx
+    - libcxxabi
+  pip:
+    - fsevents
