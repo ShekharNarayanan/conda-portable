@@ -5,7 +5,7 @@ Port your environment.yml across platforms. From any platform.
 
 ## 🚀 Why did I make this?
 
-Conda environment files built on Windows machines break on MacOS. Often. There is always ![conda-lock](https://github.com/conda/conda-lock), but it requires a clean specification file to start with. This repository gives you that file. 💨
+Conda environment files built on Windows machines break on MacOS. Often. There is always [conda-lock](https://github.com/conda/conda-lock), but it requires a clean specification file to start with. This repository gives you that file. 💨
 
 
 conda-portable a platform-specific environment.yml and generates:

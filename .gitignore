@@ -1,6 +1,7 @@
 *__pycache__/
 conda_portable.egg-info/
 build
+dist
 conda-lock.yml
 environment.portable.yml
 environment.yml
