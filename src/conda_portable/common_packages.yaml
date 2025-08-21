@@ -10,12 +10,17 @@ Windows:
     - libgcc
     - libgomp
     - win_inet_pton
+    - pywinpty
+    - winpty
+    - win32_setctime
   pip:
     - pywin32
     - pywinpty
     - pywin32-ctypes
     - pypiwin32
     - win-inet-pton
+    - winpty
+    - win32_setctime
 
 Linux:
   conda:
